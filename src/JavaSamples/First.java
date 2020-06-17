@@ -16,6 +16,9 @@ public class First {
 		//ajfoeijreoiwunkvn
 		//afjioaejfroie
 		//oigejlkfsnvfn
+		//fiejfjvnn
+		//ewjfeijfowej
+		//fjeojfoewijorw
 	
 	}
 

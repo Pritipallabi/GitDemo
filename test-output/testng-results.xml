@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29526" started-at="2019-09-04T03:22:23Z" finished-at="2019-09-04T03:22:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29526" started-at="2019-09-04T03:22:23Z" finished-at="2019-09-04T03:22:52Z">
+      <class name="TestNGDemos.parameterTestDemo">
+        <test-method status="PASS" signature="Search(java.lang.String, java.lang.String)[pri:0, instance:TestNGDemos.parameterTestDemo@457e2f02]" name="Search" duration-ms="29492" started-at="2019-09-04T03:22:23Z" finished-at="2019-09-04T03:22:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Music]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+      </class> <!-- TestNGDemos.parameterTestDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
